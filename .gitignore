@@ -1,0 +1,15 @@
+.vscode/*
+.vs/*
+bin/*
+obj/*
+ignore/*
+test/*
+build/*
+
+*.exe
+*.pdb
+*.ilk
+*.dump
+*.7z
+*.log
+*.out
